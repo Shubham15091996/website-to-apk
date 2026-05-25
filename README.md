@@ -21,8 +21,8 @@ cd website-to-apk
 2. Create a configuration file `webapk.conf`:
 ```ini
 id = myapp                          # Application ID (will be com.myapp.webtoapk)
-name = My App Name                  # Display name of the app
-mainURL = https://example.com       # Target website URL
+name =DAV GARKA SCHOOL                # Display name of the app
+mainURL = https://sites.google.com/view/main-site-dav-garka/home   # Target website URL
 icon = example.png                  # Path to your app icon (PNG format)
 
 allowSubdomains = true              # Allow navigation between example.com and sub.example.com
